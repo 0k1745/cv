@@ -91,7 +91,7 @@ Picture this:
 
 # Education
 
-## Polytech Tours, Engineer's degree in Computer Science
+## Polytech Tours, Eng.D. in Computer Science
 
 - Sept 2012
 - Embedded
