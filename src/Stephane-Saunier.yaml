@@ -1,5 +1,5 @@
 cv:
-  name: Stephane Saunier
+  name: Stéphane Saunier
   location: Nantes, France
   email: saunier.steph@gmail.com
   phone: tel:+33686128049
@@ -18,7 +18,7 @@ cv:
         start_date: 2022-05
         highlights:
           - A new Thing
-      - company: Ile de France Mobilites, Worldline
+      - company: Île de France Mobilités, Worldline
         position: Lead Developer
         location: Full remote, Tours, France
         start_date: 2021-01
