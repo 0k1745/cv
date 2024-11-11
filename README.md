@@ -42,25 +42,52 @@ Picture this:
 
 - May 2022 – present
 - Nantes, France
-- A new Thing
+- Development of a custom headless CMS for Decathlon.
+- Leading backend development (Java, Spring Boot) on Kubernetes in Google Cloud
+- Managing software organization, development tracking, and collaboration with stakeholders
+- Collaborating closely with Engineering Manager (EM) with autonomy on backend decisions
+- Supporting architectural decisions and providing technical guidance to the team
+- Conducting bug analysis, testing, and quality assurance
+- Authoring technical specifications and overseeing Level 3/4 support
 
 ## Île de France Mobilités, Worldline, Lead Developer
 
 - Jan 2021 – May 2022
 - Full remote, Tours, France
-- Something free
+- Digital transformation of the ticketing system for Île-de-France.
+- Supported architectural studies and design decisions
+- Managed development tracking and coordination
+- Provided team guidance and support
+- Developed features using Java, Spring, Hibernate, Maven
+- Configured operational tools (Docker, Keycloak)
+- Conducted testing and ensured quality assurance
+- Scoped and authored specifications
+- Delivered Level 4 support and maintenance
 
 ## Trusted Authentication, Worldline, Lead Developer
 
 - May 2018 – Jan 2021
 - Hybrid, Tours, France
-- Something 1
+- Manage a team of 8
+- Strong authentication solution for banking applications and IT systems.
+- Analyzed and designed core functionalities
+- Coordinated development and implementation
+- Assisted team with troubleshooting and support
+- Conducted bug analysis and resolution
+- Developed and tested features (Java, Spring, Hibernate, Maven)
+- Scoped and authored specifications for product features
+- Delivered Level 4 support and maintenance
 
 ## Machine To Machine ,Worldline, Software Engineer
 
 - Jan 2013 – May 2018
 - Hybrid, Tours, France
-- Something 2
+- M2M product managing and updating connected devices over mobile networks. Allow
+- Served as Scrum Master, facilitating agile development
+- Developed backend components (Java, Spring, Hibernate, Maven)
+- Conducted bug analysis and resolution
+- Managed deployment and testing processes
+- Provided Level 3 support and maintenance
 
 # Education
 
