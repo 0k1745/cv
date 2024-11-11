@@ -1,5 +1,5 @@
 cv:
-  name: Stéphane Saunier
+  name: Stephane Saunier
   location: Nantes, France
   email: saunier.steph@gmail.com
   phone: tel:+33686128049
@@ -8,6 +8,8 @@ cv:
       username: st%C3%A9phane%F0%9F%92%BB-saunier-84a54327/
     - network: GitHub
       username: Stephane-Saunier
+    - network: GitHub
+      username: 0k1745
   sections:
     experience:
       - company: Decathlon
