@@ -17,28 +17,55 @@ cv:
         location: Nantes, France
         start_date: 2022-05
         highlights:
-          - A new Thing
+          - Development of a custom headless CMS for Decathlon.
+          - Leading backend development (Java, Spring Boot) on Kubernetes in Google Cloud
+          - Managing software organization, development tracking, and collaboration with stakeholders
+          - Collaborating closely with Engineering Manager (EM) with autonomy on backend decisions
+          - Supporting architectural decisions and providing technical guidance to the team
+          - Conducting bug analysis, testing, and quality assurance
+          - Authoring technical specifications and overseeing Level 3/4 support
       - company: Île de France Mobilités, Worldline
         position: Lead Developer
         location: Full remote, Tours, France
         start_date: 2021-01
         end_date: 2022-05
         highlights:
-          - Something free
+          - Digital transformation of the ticketing system for Île-de-France.
+          - Supported architectural studies and design decisions
+          - Managed development tracking and coordination
+          - Provided team guidance and support
+          - Developed features using Java, Spring, Hibernate, Maven
+          - Configured operational tools (Docker, Keycloak)
+          - Conducted testing and ensured quality assurance
+          - Scoped and authored specifications
+          - Delivered Level 4 support and maintenance
       - company: Trusted Authentication, Worldline
         position: Lead Developer
         location: Hybrid, Tours, France
         start_date: 2018-05
         end_date: 2021-01
         highlights:
-          - Something 1
+          - Manage a team of 8
+          - Strong authentication solution for banking applications and IT systems.
+          - Analyzed and designed core functionalities
+          - Coordinated development and implementation
+          - Assisted team with troubleshooting and support
+          - Conducted bug analysis and resolution
+          - Developed and tested features (Java, Spring, Hibernate, Maven)
+          - Scoped and authored specifications for product features
+          - Delivered Level 4 support and maintenance
       - company: Machine To Machine ,Worldline
         position: Software Engineer
         location: Hybrid, Tours, France
         start_date: 2013-01
         end_date: 2018-05
         highlights:
-          - Something 2
+          - M2M product managing and updating connected devices over mobile networks. Allow 
+          - Served as Scrum Master, facilitating agile development
+          - Developed backend components (Java, Spring, Hibernate, Maven)
+          -  Conducted bug analysis and resolution
+          -  Managed deployment and testing processes
+          -  Provided Level 3 support and maintenance
     education:
       - institution: Polytech Tours
         area: Computer Science
