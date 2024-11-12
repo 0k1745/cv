@@ -12,7 +12,7 @@
     <<date_and_location_strings|join("\n\n")>>
 }
     \textbf{<<entry.company>>}, <<entry.position>> 
-    <<"\n">><<entry.description>>
+    \newline <<entry.description>>
     ((* for item in entry.highlights *))
         ((* if loop.first *))
     \begin{highlights}
@@ -26,7 +26,7 @@
 ((* else *))
 \begin{onecolentry}
     \textbf{<<entry.company>>}, <<entry.position)>> 
-    <<"\n">><<entry.description>>
+    \newline <<entry.description>>
     ((* for item in entry.highlights *))
         ((* if loop.first *))
     \begin{highlights}
