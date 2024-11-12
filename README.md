@@ -42,7 +42,7 @@ Picture this:
 
 - May 2022 – present
 - Nantes, France
-- Development of a custom headless CMS for Decathlon
+- At Decathlon, I have been able to implement and actively share what I’ve learned from past experiences. As a senior developer, my main role is mentoring junior developers and challenging proposed solutions from architects and the team. In a central role on the project, I coordinate and plan for the team to achieve high-quality software. My biggest success so far at Decathlon has been guiding our junior production expert, who successfully transitioned to a backend development role
 - Leading backend development (Java, Spring Boot) on Kubernetes in Google Cloud
 - Managing software organization, development tracking, and collaboration with stakeholders
 - Collaborating closely with Engineering Manager (EM) with autonomy on backend decisions
@@ -54,7 +54,7 @@ Picture this:
 
 - Jan 2021 – May 2022
 - Full remote, Tours, France
-- Digital transformation of the ticketing system for Île-de-France
+- This project focuses on digitizing transit tickets for the Île-de-France region. We implemented a service orchestration system using Apache Camel to serve as the gateway for various data consumers. My team of four and I notably integrated Apple Pay, allowing us to coordinate external ticketing solutions, an internal authentication system (based on Keycloak), and systems for payment and digital ticket distribution
 - Supported architectural studies and design decisions
 - Managed development tracking and coordination
 - Provided team guidance and support
@@ -68,7 +68,7 @@ Picture this:
 
 - May 2018 – Jan 2021
 - Hybrid, Tours, France
-- Strong authentication solution for banking applications and IT systems
+- Within the Trusted Authentication team, I held the position of lead developer/manager for the backend team. This R&D project aimed to provide strong authentication for banks through mobile SDKs and backend services. When I joined, the team mostly comprised developers with limited experience. Working with my manager, we expanded the team with seasoned professionals to achieve the quality and reliability we needed. After three years of growth and development on this project, I decided to pursue new challenges
 - Manage a team of 8
 - Analyzed and designed core functionalities
 - Coordinated development and implementation
@@ -82,7 +82,7 @@ Picture this:
 
 - Jan 2013 – May 2018
 - Hybrid, Tours, France
-- M2M product managing and updating connected devices over mobile networks
+- The M2M project is a multi-service initiative that manages a fleet of connected devices. As my first major Java enterprise project, I learned significantly from my peers, especially the senior developer who guided us. I proved myself in this team, eventually stepping into a Lead Developer role. Through my experience as a Scrum Master, I implemented agile methodologies, embracing the “you build it, you run it” culture that deeply shaped my approach to development
 - Served as Scrum Master, facilitating agile development
 - Developed backend components (Java, Spring, Hibernate, Maven)
 - Conducted bug analysis and resolution
@@ -94,7 +94,6 @@ Picture this:
 ## Polytech Tours, Eng.D. in Computer Science
 
 - Sept 2012
-- Embedded
 
 # Technologies
 
