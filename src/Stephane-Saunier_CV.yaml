@@ -5,7 +5,7 @@ cv:
   phone: tel:+33686128049
   social_networks:
     - network: LinkedIn
-      username: stephane-saunier-84a54327
+      username: stephane-saunier
     - network: GitHub
       username: Stephane-Saunier
     - network: GitHub
@@ -17,7 +17,7 @@ cv:
         location: Nantes, France
         start_date: 2022-05
         highlights:
-          - Development of a custom headless CMS for Decathlon.
+          - Development of a custom headless CMS for Decathlon
           - Leading backend development (Java, Spring Boot) on Kubernetes in Google Cloud
           - Managing software organization, development tracking, and collaboration with stakeholders
           - Collaborating closely with Engineering Manager (EM) with autonomy on backend decisions
@@ -30,7 +30,7 @@ cv:
         start_date: 2021-01
         end_date: 2022-05
         highlights:
-          - Digital transformation of the ticketing system for Île-de-France.
+          - Digital transformation of the ticketing system for Île-de-France
           - Supported architectural studies and design decisions
           - Managed development tracking and coordination
           - Provided team guidance and support
@@ -45,8 +45,8 @@ cv:
         start_date: 2018-05
         end_date: 2021-01
         highlights:
+          - Strong authentication solution for banking applications and IT systems
           - Manage a team of 8
-          - Strong authentication solution for banking applications and IT systems.
           - Analyzed and designed core functionalities
           - Coordinated development and implementation
           - Assisted team with troubleshooting and support
@@ -60,7 +60,7 @@ cv:
         start_date: 2013-01
         end_date: 2018-05
         highlights:
-          - M2M product managing and updating connected devices over mobile networks. Allow 
+          - M2M product managing and updating connected devices over mobile networks
           - Served as Scrum Master, facilitating agile development
           - Developed backend components (Java, Spring, Hibernate, Maven)
           -  Conducted bug analysis and resolution
