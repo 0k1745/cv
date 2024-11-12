@@ -11,8 +11,8 @@
 \begin{twocolentry}{
     <<date_and_location_strings|join("\n\n")>>
 }
-    \textbf{<<entry.company>>}, <<entry.position|join("\n")>> 
-    <<entry.description>>
+    \textbf{<<entry.company>>}, <<entry.position>> 
+    <<"\n">><<entry.description>>
     ((* for item in entry.highlights *))
         ((* if loop.first *))
     \begin{highlights}
@@ -25,8 +25,8 @@
 \end{twocolentry}
 ((* else *))
 \begin{onecolentry}
-    \textbf{<<entry.company>>}, <<entry.position|join("\n")>> 
-    <<entry.description>>
+    \textbf{<<entry.company>>}, <<entry.position)>> 
+    <<"\n">><<entry.description>>
     ((* for item in entry.highlights *))
         ((* if loop.first *))
     \begin{highlights}
