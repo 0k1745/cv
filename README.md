@@ -31,7 +31,7 @@ Picture this:
 - Phone: +33 6 86 12 80 49
 - Email: [saunier.steph@gmail.com](mailto:saunier.steph@gmail.com)
 - Location: Nantes, France
-- LinkedIn: [stephane-saunier-84a54327](https://linkedin.com/in/stephane-saunier-84a54327)
+- LinkedIn: [stephane-saunier](https://linkedin.com/in/stephane-saunier)
 - GitHub: [Stephane-Saunier](https://github.com/Stephane-Saunier)
 - GitHub: [0k1745](https://github.com/0k1745)
 
@@ -42,7 +42,7 @@ Picture this:
 
 - May 2022 – present
 - Nantes, France
-- Development of a custom headless CMS for Decathlon.
+- Development of a custom headless CMS for Decathlon
 - Leading backend development (Java, Spring Boot) on Kubernetes in Google Cloud
 - Managing software organization, development tracking, and collaboration with stakeholders
 - Collaborating closely with Engineering Manager (EM) with autonomy on backend decisions
@@ -54,7 +54,7 @@ Picture this:
 
 - Jan 2021 – May 2022
 - Full remote, Tours, France
-- Digital transformation of the ticketing system for Île-de-France.
+- Digital transformation of the ticketing system for Île-de-France
 - Supported architectural studies and design decisions
 - Managed development tracking and coordination
 - Provided team guidance and support
@@ -68,8 +68,8 @@ Picture this:
 
 - May 2018 – Jan 2021
 - Hybrid, Tours, France
+- Strong authentication solution for banking applications and IT systems
 - Manage a team of 8
-- Strong authentication solution for banking applications and IT systems.
 - Analyzed and designed core functionalities
 - Coordinated development and implementation
 - Assisted team with troubleshooting and support
@@ -82,7 +82,7 @@ Picture this:
 
 - Jan 2013 – May 2018
 - Hybrid, Tours, France
-- M2M product managing and updating connected devices over mobile networks. Allow
+- M2M product managing and updating connected devices over mobile networks
 - Served as Scrum Master, facilitating agile development
 - Developed backend components (Java, Spring, Hibernate, Maven)
 - Conducted bug analysis and resolution
